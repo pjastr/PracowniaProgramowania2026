@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1777980267 source:c:\users\piotrek\documents\cp_projects\w10_1\main.c
-	<stdio.h>
-	<stdlib.h>
-	<wchar.h>
-
