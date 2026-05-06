@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1777982027 source:c:\users\piotrek\documents\cp_projects\w10_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
