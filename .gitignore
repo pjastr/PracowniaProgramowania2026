@@ -1,0 +1,21 @@
+# Code::Blocks - foldery wynikowe
+bin/
+obj/
+
+# Code::Blocks - pliki layoutu / stanu workspace
+*.layout
+*.depend
+*.cscope_file_inclist
+
+# Pliki kompilatora
+*.o
+*.obj
+*.exe
+*.out
+
+# Pliki tymczasowe edytorów
+*~
+*.bak
+*.swp
+.vscode/
+.idea/
